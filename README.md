@@ -32,6 +32,6 @@
  ### **Share and Act Phase** 
  - [See the static version of the dashboard in pdf format](https://github.com/TolulopeOyejide/DataAnalysisProject_2/blob/daa6c85d17a3530508c660e1453bbfe2852c022d/SmartCare%20HR%20Operational%20Dashboard.pdf)
 
-- [Watch the demo of the interactive dashboard](https://youtu.be/c_DP6lYcx1g)
+- [Watch the demo of the interactive dashboard](https://youtu.be/nSEOJgl-h2k)
 
  

@@ -1,4 +1,5 @@
 # Maven Store Revenues Dashboard: Assisted Maven Stores in analyzing sales data and forecasting trends across all of its outlets in order to improve her marketing strategy.
+[Watch the demo of the interactive dashboard](https://youtu.be/nSEOJgl-h2k)
 
 ### **Ask Phase: Asking Questions to Understand the Business Task** 
 - **The Stakeholders**: Maven Brown - CEO and the Executive Team.

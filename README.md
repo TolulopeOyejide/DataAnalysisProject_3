@@ -31,7 +31,7 @@
 
  
  ### **Share and Act Phase** 
- - [See the static version of the dashboard in pdf format](https://github.com/TolulopeOyejide/DataAnalysisProject_2/blob/daa6c85d17a3530508c660e1453bbfe2852c022d/SmartCare%20HR%20Operational%20Dashboard.pdf)
+ - [See the static version of the dashboard in pdf format](https://github.com/TolulopeOyejide/DataAnalysisProject_3/blob/main/Maven%20Sales%20Analytics%20DashBoard.pdf)
 
 - [Watch the demo of the interactive dashboard](https://youtu.be/nSEOJgl-h2k)
 

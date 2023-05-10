@@ -13,7 +13,7 @@
 
 ### **Process Phase: Processing the data to get all rid of possible errors.** 
 **Documentation of the data cleaning process**
-- I used Power Query and DAX to Clean the Data.
+
 - After becoming acquainted with the data, I uploaded the datasets on Power BI Desktop that will assist me in answering our business       task.I concentrated my investigation on the following datasets:
   -  Maven Products
   -  Maven Sales

@@ -1,4 +1,4 @@
-# Maven Store Revenues Dashboard: Built a dynamic dashboard for Maven Stores that helps her analyze sales data and forecast trends across all of its outlets in order to improve her marketing strategy
+# Maven Store Revenues: Built a dynamic dashboard for Maven Stores that helps her analyze sales data and forecast trends across all of its outlets in order to improve her marketing strategy
 [Watch the demo of the interactive dashboard](https://youtu.be/nSEOJgl-h2k)
 
 ### **Ask Phase: Asking Questions to Understand the Business Task** 
